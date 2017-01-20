@@ -1,0 +1,146 @@
+{
+    "%d New Story/Stories" =     {
+        NSStringLocalizedFormatKey = "%#@unread_stories@";
+        "unread_stories" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d New Story";
+            other = "%d New Stories";
+        };
+    };
+    "%d day/days ago long" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_long_text@";
+        "day_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d day ago";
+            other = "%d days ago";
+        };
+    };
+    "%d day/days ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_medium_text@";
+        "day_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dd ago";
+            other = "%dd ago";
+        };
+    };
+    "%d day/days ago short" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_short_text@";
+        "day_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dd";
+            other = "%dd";
+        };
+    };
+    "%d hour/hours ago long" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_long_text@";
+        "hour_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d hour ago";
+            other = "%d hours ago";
+        };
+    };
+    "%d hour/hours ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_medium_text@";
+        "hour_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dh ago";
+            other = "%dh ago";
+        };
+    };
+    "%d hour/hours ago short" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_short_text@";
+        "hour_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dh";
+            other = "%dh";
+        };
+    };
+    "%d minute/minutes ago long" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_long_text@";
+        "minute_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d minute ago";
+            other = "%d minutes ago";
+        };
+    };
+    "%d minute/minutes ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_medium_text@";
+        "minute_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dm ago";
+            other = "%dm ago";
+        };
+    };
+    "%d minute/minutes ago short" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_short_text@";
+        "minute_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dm";
+            other = "%dm";
+        };
+    };
+    "%d week/weeks ago long" =     {
+        NSStringLocalizedFormatKey = "%#@week_ago_long_text@";
+        "week_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d week ago";
+            other = "%d weeks ago";
+        };
+    };
+    "%d week/weeks ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@week_ago_medium_text@";
+        "week_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dw ago";
+            other = "%dw ago";
+        };
+    };
+    "%d week/weeks ago short" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_short_text@";
+        "day_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dw";
+            other = "%dw";
+        };
+    };
+    "%d year/years ago long" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_long_text@";
+        "year_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d year ago";
+            other = "%d years ago";
+        };
+    };
+    "%d year/years ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_medium_text@";
+        "year_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dy ago";
+            other = "%dy ago";
+        };
+    };
+    "%d year/years ago short" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_short_text@";
+        "year_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dy";
+            other = "%dy";
+        };
+    };
+}

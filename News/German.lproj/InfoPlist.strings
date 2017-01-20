@@ -1,0 +1,5 @@
+{
+    ApplicationShortcutItemForYou = "F\U00fcr Dich";
+    CFBundleDisplayName = News;
+    CFBundleName = News;
+}

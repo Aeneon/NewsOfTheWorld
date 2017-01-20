@@ -1,0 +1,5 @@
+{
+    ApplicationShortcutItemForYou = "For You";
+    CFBundleDisplayName = News;
+    CFBundleName = News;
+}
