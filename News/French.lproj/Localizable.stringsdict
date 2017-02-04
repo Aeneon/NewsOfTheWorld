@@ -1,0 +1,146 @@
+{
+    "%d New Story/Stories" =     {
+        NSStringLocalizedFormatKey = "%#@unread_stories@";
+        "unread_stories" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%d Nouvel Article";
+            other = "%d Nouveaux Articles";
+        };
+    };
+    "%d day/days ago long" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_long_text@";
+        "day_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %d jour";
+            other = "Il y a %d jours";
+        };
+    };
+    "%d day/days ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_medium_text@";
+        "day_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %dj";
+            other = "Il y a %dj";
+        };
+    };
+    "%d day/days ago short" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_short_text@";
+        "day_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dj";
+            other = "%dj";
+        };
+    };
+    "%d hour/hours ago long" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_long_text@";
+        "hour_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %d heure";
+            other = "Il y a %d heures";
+        };
+    };
+    "%d hour/hours ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_medium_text@";
+        "hour_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %dh";
+            other = "Il y a %dh";
+        };
+    };
+    "%d hour/hours ago short" =     {
+        NSStringLocalizedFormatKey = "%#@hour_ago_short_text@";
+        "hour_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dh";
+            other = "%dh";
+        };
+    };
+    "%d minute/minutes ago long" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_long_text@";
+        "minute_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %d minute";
+            other = "Il y a %d minutes";
+        };
+    };
+    "%d minute/minutes ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_medium_text@";
+        "minute_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %dm";
+            other = "Il y a %dm";
+        };
+    };
+    "%d minute/minutes ago short" =     {
+        NSStringLocalizedFormatKey = "%#@minute_ago_short_text@";
+        "minute_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%dm";
+            other = "%dm";
+        };
+    };
+    "%d week/weeks ago long" =     {
+        NSStringLocalizedFormatKey = "%#@week_ago_long_text@";
+        "week_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %d semaine";
+            other = "Il y a %d semaines";
+        };
+    };
+    "%d week/weeks ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@week_ago_medium_text@";
+        "week_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %ds";
+            other = "Il y a %ds";
+        };
+    };
+    "%d week/weeks ago short" =     {
+        NSStringLocalizedFormatKey = "%#@day_ago_short_text@";
+        "day_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%ds";
+            other = "%ds";
+        };
+    };
+    "%d year/years ago long" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_long_text@";
+        "year_ago_long_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %d an";
+            other = "Il y a %d ans";
+        };
+    };
+    "%d year/years ago medium" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_medium_text@";
+        "year_ago_medium_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "Il y a %da";
+            other = "Il y a %da";
+        };
+    };
+    "%d year/years ago short" =     {
+        NSStringLocalizedFormatKey = "%#@year_ago_short_text@";
+        "year_ago_short_text" =         {
+            NSStringFormatSpecTypeKey = NSStringPluralRuleType;
+            NSStringFormatValueTypeKey = d;
+            one = "%da";
+            other = "%da";
+        };
+    };
+}
