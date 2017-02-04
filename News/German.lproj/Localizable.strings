@@ -227,12 +227,12 @@
     Subscribe = Abonnieren;
     "Tap at least one to continue." = "Tippe zum Fortfahren mindestens ein Element an.";
     "Tell us a little more." = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: I read English but it\U2019s in Spanish, some characters aren\U2019t in my language\U2019s alphabet" = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: gardening story is in the sports category, knitting story is in the politics category" = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: it insults or threatens an individual or group based on traits or identity, it contains hateful symbols or images" = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: pornography, gratuitous nudity, sexualization of children, depictions of excessive violence without warning, libel" = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: story is illegible or poorly formatted, video or audio doesn\U2019t play, images don\U2019t load" = "Erz\U00e4hle uns ein bisschen mehr.";
-    "Tell us a little more.For example: violence toward people or animals; encourages abuse, torture, self-inflicted harm, bullying" = "Erz\U00e4hle uns ein bisschen mehr.";
+    "Tell us a little more.For example: I read English but it\U2019s in Spanish, some characters aren\U2019t in my language\U2019s alphabet" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Ich lese Englisch, aber es ist in Spanisch, einige Zeichen sind nicht Teil des Alphabets meiner Sprache";
+    "Tell us a little more.For example: it insults or threatens an individual or group based on traits or identity, it contains hateful symbols or images" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Sie beleidigt oder bedroht eine Person oder Gruppe, die auf Merkmalen oder Identit\U00e4t basiert, sie enth\U00e4lt hasserf\U00fcllte Symbole oder Bilder.";
+    "Tell us a little more.For example: pornography, gratuitous nudity, sexualization of children, depictions of excessive violence without warning, libel" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Pornografie, freie Nacktheit, Sexualisierung von Kindern, Darstellungen \U00fcberm\U00e4ssiger Gewalt ohne Vorwarnung, Verleumdung.";
+    "Tell us a little more.For example: story is illegible or poorly formatted, video or audio doesn\U2019t play, images don\U2019t load" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Die Nachricht ist unlesbar oder schlecht formatiert, Video oder Audio wird nicht wiedergegeben, Bilder werden nicht geladen.";
+    "Tell us a little more.For example: story is in the sports category, knitting story is in the politics category" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Eine Nachricht \U00fcber Gartenarbeit ist in der Sport-Kategorie, eine Nachricht \U00fcber das Stricken ist in der Kategorie Politik";
+    "Tell us a little more.For example: violence toward people or animals; encourages abuse, torture, self-inflicted harm, bullying" = "Erz\U00e4hle uns ein bisschen mehr.Beispiel: Gewalt gegen\U00fcber Menschen oder Tieren; Ermutigt zu Missbrauch, Folter, selbstverschuldeten Schaden oder Mobbing.";
     "Text size" = "Schriftgr\U00f6\U00dfe";
     "The app isn\U2019t supported in your current region." = "Die App wird in deinem Land nicht unterst\U00fctzt.";
     "The best stories from the sources you love, selected just for you. The more you read, the more personalized your News becomes." = "Die besten Beitr\U00e4ge aus den Quellen, die du liebst, nur f\U00fcr dich ausgew\U00e4hlt. Je mehr du liest, desto pers\U00f6nlicher wird News.";
